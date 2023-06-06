@@ -1,0 +1,4 @@
+venv
+/venv
+.venv
+Api_tests/__pycache__/
